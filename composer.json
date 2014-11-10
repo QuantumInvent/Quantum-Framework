@@ -1,6 +1,6 @@
 {
     "name": "quantuminvent/quantum-framework",
-    "description": "quantum framework",
+    "description": "Quantum Framework is a powerful PHP Framework with one agenda : simplifying the developers life.",
     "require": {
         "silex/silex": "~1.2"
     },
