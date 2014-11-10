@@ -1,0 +1,15 @@
+{
+    "name": "quantuminvent/quantum-framework",
+    "description": "quantum framework",
+    "require": {
+        "silex/silex": "~1.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Achraf Soltani",
+            "email": "achraf.soltani@quantuminvent.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
