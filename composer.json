@@ -11,5 +11,9 @@
             "email": "achraf.soltani@quantuminvent.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "config":
+    {
+        "vendor-dir": "system"
+    }
 }
